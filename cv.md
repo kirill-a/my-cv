@@ -1,5 +1,4 @@
 KIRILL AGEEV
-k.ageev.work@gmail.com tg: @ki_age
 SENIOR DEVOPS ENGINEER
 
 SUMMARY
@@ -11,7 +10,7 @@ SKILLS
 DevSecOps: GitHub Actions, Jenkins Shared Library, Git, Gerrit, Nexus, SonarQube, JFrog, Backstage, Wiz
 Infrastructure: Kubernetes, OpenShift, Docker, AWS, Google Apigee
 Observability: Prometheus, Grafana, OpenTelemetry, Elasticsearch, Kibana
-Languages: Python, TypeScript, Bash, Groovy, SQL
+Languages: Python, TypeScript, Bash, Groovy
 
 EXPERIENCE
 MSD International GmbH (Singapore branch)
@@ -31,20 +30,20 @@ Role: Senior DevOps Engineer
 Client: an American multinational pharmaceutical company.
 Project: Providing a CI/CD platform for internal developer teams.
 Responsibilities:
-- Development of CI/CD pipelines in Jenkins (Shared Library) and GitHub Actions (TypeScript, Composite Actions and Reusable Workflows)
+- Development of CI/CD pipelines in Jenkins (Shared Library) and GitHub Actions (TypeScript, Composite Actions and Reusable Workflows library)
 - Integrations with JFrog (Artifactory, Xray), SonarQube, Wiz, Backstage
 - Support of development teams migrating from Bitbucket/SVN/Jenkins to GitHub
 - Handling of 3rd-line support requests, investigations, and troubleshooting
 
 Apr 2019 – Apr 2022 (3 years 1 month), Russia
 Role: DevOps Tech Lead
-Client: Association of Motor Insurers.
+Client: National Association of Motor Insurers.
 Project: Development of a new microservice-based high-load system for insurance policies.
 Responsibilities:
-- Development and support of the OpenShift cluster in AWS with CI/CD pipelines for microservices (Jenkins Shared Library, SonarQube, Nexus)
+- Support of the OpenShift cluster in AWS with CI/CD pipelines for microservices (Jenkins Shared Library, SonarQube, Nexus)
 - Configuration of monitoring and logging solutions (Elasticsearch, Kibana, Prometheus, Grafana)
 - Sprint planning, backlog refinement, retrospective arrangement
-- Infrastructure support, including on-call duty
+- Infrastructure support, including on-call duty 24/7
 - Enabling best practices: GitOps in Jenkins, "golden paths" for developer teams
 
 Aug 2017 – Apr 2019 (1 year 9 months), Russia
@@ -61,9 +60,8 @@ Role: Build Engineer
 Client: UK-based distributor of building materials and home improvement products.
 Project: Support of legacy back-office, till, and supply chain management software.
 Responsibilities:
-- Management and administration of the CI/CD toolchain (Jenkins, SonarQube, Nexus)
-- Implementation of automation framework for CI/CD (Groovy, Gradle)
-- Maintenance of infrastructure in the cloud (Docker, AWS)
+- Management and automation of the CI/CD toolchain (Jenkins, Groovy, SonarQube, Nexus, AWS EC2)
+- Onboarding obsolete technologies (Visual Basic 6, VB.NET, Windows XP)
 
 Jun 2012 – Jun 2014 (2 years 1 month), Russia
 Role: QA Engineer, Application Support
