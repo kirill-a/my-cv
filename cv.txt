@@ -8,7 +8,7 @@ Organized and led DevOps education and training programs. Experienced in Agile m
 
 SKILLS
 DevSecOps: Git, GitHub Actions, Jenkins Shared Library, Gerrit, Nexus, SonarQube, JFrog, Backstage, Wiz
-Infrastructure: Kubernetes, OpenShift, Docker, AWS, Google Apigee
+Infrastructure: Kubernetes, OpenShift, Helm, Docker, AWS, Google Apigee
 Observability: Prometheus, Grafana, OpenTelemetry, Elasticsearch, Kibana
 Languages: Python, TypeScript, Bash, Groovy
 
@@ -40,16 +40,15 @@ Role: DevOps Tech Lead
 Client: National Association of Motor Insurers.
 Project: Development of a new microservice-based high-load system for insurance policies.
 Responsibilities:
-- Support of the OpenShift cluster in AWS EC2 with CI/CD pipelines for microservices (Jenkins Shared Library, SonarQube, Nexus)
+- Support of the OpenShift cluster in AWS EC2 with CI/CD pipelines for microservices (Jenkins Shared Library, SonarQube, Nexus, Helm)
 - Configuration of monitoring and logging solutions (Elasticsearch, Kibana, Prometheus, Grafana)
-- Sprint planning, backlog refinement, retrospective arrangement
 - Infrastructure support, including 24/7 on-call rotation
 - Enabling best practices: GitOps, "golden paths" for developer teams
 
 Aug 2017 – Apr 2019 (1 year 9 months), Russia
 Role: Senior DevOps Engineer
 Client: The US sports association.
-Project: Rebuilding the core customer engagement platform. Exposing APIs for third-party developers.
+Project: Rebuilding the core customer engagement platform, exposing APIs for third-party developers.
 Responsibilities:
 - Managing API gateway and developer portal using Google Apigee
 - Implementation of API security controls: quota management, caching, threat protection, logging
