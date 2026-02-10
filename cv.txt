@@ -18,7 +18,6 @@ Nov 2025 – Present, Singapore
 Role: Senior Specialist, DevSecOps
 Responsibilities:
 - AI-driven CI/CD platform development, operations, and 3rd-line support (GitHub, Backstage, JFrog platform, Wiz)
-- Monitoring and analytics (Prometheus, Grafana, OpenTelemetry)
 - Enablement of developer self-service via standardized "golden paths"
 - Onboarding proprietary platforms to GitHub: QlikSense, Informatica Cloud, SAP HANA
 
