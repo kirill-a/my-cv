@@ -7,7 +7,7 @@ Senior DevOps Engineer with a focus on cloud platforms, container orchestration,
 Organized and led DevOps education and training programs. Experienced in Agile methodologies (Scrum, Kanban) and ITIL processes.
 
 SKILLS
-DevSecOps: Git, GitHub Actions, Jenkins Shared Library, Gerrit, Nexus, SonarQube, JFrog, Backstage
+DevSecOps: Git, GitHub Actions, Jenkins Shared Libraries, Gerrit, Nexus, SonarQube, JFrog, Backstage
 Infrastructure: Kubernetes, OpenShift, Helm, Docker, AWS, Google Apigee
 Observability: Prometheus, Grafana, OpenTelemetry, Elasticsearch, Kibana
 Languages: Python, TypeScript, Bash, Groovy
@@ -28,7 +28,7 @@ Role: Senior DevOps Engineer
 Client: a US-based top-5 pharmaceutical company.
 Project: Providing a CI/CD platform for internal developer teams.
 Responsibilities:
-- Development of CI/CD pipelines in Jenkins (Shared Library) and GitHub Actions (Custom Actions and Reusable Workflows library)
+- Development of CI/CD pipelines in Jenkins Shared Libraries and GitHub Actions (Custom Actions and Reusable Workflows)
 - Integrations with JFrog platform, SonarQube, Wiz, Backstage, Terraform, Cloud Foundry, AWS CloudFormation, QlikSense
 - Support of development teams migrating from Bitbucket/SVN/Jenkins to GitHub
 - Handling of 3rd-line support requests, investigations, and troubleshooting
@@ -38,7 +38,7 @@ Role: DevOps Tech Lead
 Client: National Association of Motor Insurers.
 Project: Development of a new microservice-based high-load system for insurance policies.
 Responsibilities:
-- Support of the OpenShift cluster in AWS EC2 with CI/CD pipelines for microservices (Jenkins Shared Library, SonarQube, Nexus, Helm)
+- Operation and support of the OpenShift cluster in AWS (EC2), including CI/CD pipelines for microservices (Jenkins Shared Library, SonarQube, Nexus, Helm)
 - Configuration of monitoring and logging solutions (Elasticsearch, Kibana, Prometheus, Grafana)
 - Infrastructure support, including 24/7 on-call rotation
 - Enabling best practices: GitOps, "golden paths" for developer teams
@@ -57,8 +57,8 @@ Role: Build Engineer
 Client: UK-based distributor of building materials and home improvement products.
 Project: Support of legacy back-office, till, and supply chain management software.
 Responsibilities:
-- Management and automation of the CI/CD toolchain (Jenkins, Groovy, SonarQube, Nexus, AWS EC2)
-- Onboarding obsolete technologies (Visual Basic 6, VB.NET, Pivotal CRM 6, Windows XP)
+- Implementation and automation of the CI/CD toolchain (Jenkins, Groovy, SonarQube, Nexus, AWS EC2)
+- Enabling CI/CD automation for legacy technologies (Visual Basic 6, VB.NET, Pivotal CRM 6, Windows XP)
 
 Jun 2012 – Jun 2014 (2 years 1 month), Russia
 Role: QA Engineer, Application Support
