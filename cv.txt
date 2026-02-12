@@ -7,7 +7,7 @@ Senior DevOps Engineer with a focus on cloud platforms, container orchestration,
 Organized and led DevOps education and training programs. Experienced in Agile methodologies (Scrum, Kanban) and ITIL processes.
 
 SKILLS
-DevSecOps: Git, GitHub Actions, Jenkins Shared Library, Gerrit, Nexus, SonarQube, JFrog, Backstage, Wiz
+DevSecOps: Git, GitHub Actions, Jenkins Shared Library, Gerrit, Nexus, SonarQube, JFrog, Backstage
 Infrastructure: Kubernetes, OpenShift, Helm, Docker, AWS, Google Apigee
 Observability: Prometheus, Grafana, OpenTelemetry, Elasticsearch, Kibana
 Languages: Python, TypeScript, Bash, Groovy
@@ -17,9 +17,8 @@ MSD International GmbH (Singapore branch)
 Nov 2025 – Present, Singapore
 Role: Senior Specialist, DevSecOps
 Responsibilities:
-- AI-driven CI/CD platform development, operations, and 3rd-line support (GitHub, Backstage, JFrog platform, Wiz)
+- AI-driven CI/CD platform development (GitHub Actions, Copilot)
 - Enablement of developer self-service via standardized "golden paths"
-- Onboarding proprietary platforms to GitHub: QlikSense, Informatica Cloud, SAP HANA
 
 EPAM Systems
 (13 years 6 months)
@@ -29,8 +28,8 @@ Role: Senior DevOps Engineer
 Client: a US-based top-5 pharmaceutical company.
 Project: Providing a CI/CD platform for internal developer teams.
 Responsibilities:
-- Development of CI/CD pipelines in Jenkins (Shared Library) and GitHub Actions (TypeScript, Composite Actions and Reusable Workflows library)
-- Integrations with JFrog (Artifactory, Xray), SonarQube, Wiz, Backstage
+- Development of CI/CD pipelines in Jenkins (Shared Library) and GitHub Actions (Custom Actions and Reusable Workflows library)
+- Integrations with JFrog platform, SonarQube, Wiz, Backstage, Terraform, Cloud Foundry, AWS CloudFormation, QlikSense
 - Support of development teams migrating from Bitbucket/SVN/Jenkins to GitHub
 - Handling of 3rd-line support requests, investigations, and troubleshooting
 
@@ -59,7 +58,7 @@ Client: UK-based distributor of building materials and home improvement products
 Project: Support of legacy back-office, till, and supply chain management software.
 Responsibilities:
 - Management and automation of the CI/CD toolchain (Jenkins, Groovy, SonarQube, Nexus, AWS EC2)
-- Onboarding obsolete technologies (Visual Basic 6, VB.NET, Windows XP)
+- Onboarding obsolete technologies (Visual Basic 6, VB.NET, Pivotal CRM 6, Windows XP)
 
 Jun 2012 – Jun 2014 (2 years 1 month), Russia
 Role: QA Engineer, Application Support
@@ -67,7 +66,6 @@ Client: Russian subsidiary of the American banking corporation (top 5).
 Project: Support of the bank's legacy back-office systems.
 Responsibilities:
 - Functional and integration testing of backend systems (SVN, MS SQL Server, .NET)
-- Test data and environment management
 - Incident and problem management, preparation of SQL data change scripts
 
 EDUCATION
