@@ -29,7 +29,7 @@ Client: a US-based top-5 pharmaceutical company.
 Project: Providing a CI/CD platform for internal developer teams.
 Responsibilities:
 - Development of CI/CD pipelines in Jenkins Shared Libraries and GitHub Actions (Custom Actions and Reusable Workflows)
-- Integrations with JFrog platform, SonarQube, Wiz, Backstage, Terraform, Cloud Foundry, AWS CloudFormation, QlikSense
+- Integrations with JFrog platform, SonarQube, Wiz, Backstage, Terraform, Cloud Foundry, QlikSense
 - Support of development teams migrating from Bitbucket/SVN/Jenkins to GitHub
 - Handling of 3rd-line support requests, investigations, and troubleshooting
 
