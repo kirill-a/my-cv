@@ -17,7 +17,7 @@ MSD International GmbH (Singapore branch)
 Nov 2025 – Present, Singapore
 Role: Senior Specialist, DevSecOps
 Responsibilities:
-- AI-driven CI/CD platform development (GitHub Actions, Copilot)
+- AI-driven CI/CD platform development using GitHub Actions and Copilot
 - Enablement of developer self-service via standardized "golden paths"
 
 EPAM Systems
