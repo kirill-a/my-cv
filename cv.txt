@@ -20,8 +20,7 @@ Responsibilities:
 - AI-driven CI/CD platform development using GitHub Actions and Copilot
 - Enablement of developer self-service via standardized "golden paths"
 
-EPAM Systems
-(13 years 6 months)
+EPAM Systems (13 years 6 months)
 
 Apr 2022 – Nov 2025 (3 years 8 months), Singapore
 Role: Senior DevOps Engineer
