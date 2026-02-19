@@ -8,8 +8,8 @@ Organized and led DevOps education and training programs. Experienced in Agile m
 
 SKILLS
 DevSecOps: Git, GitHub Actions, Jenkins Shared Libraries, Gerrit, Nexus, SonarQube, JFrog, Backstage
-Infrastructure: Kubernetes, OpenShift, Helm, Docker, AWS, Google Apigee
-Observability: Prometheus, Grafana, OpenTelemetry, Elasticsearch, Kibana
+Cloud and Infrastructure: AWS, Kubernetes, OpenShift, Helm, Docker, Google Apigee
+Observability: Prometheus, Grafana, Elasticsearch, Kibana, OpenTelemetry
 Languages: Python, TypeScript, Bash, Groovy
 
 EXPERIENCE
