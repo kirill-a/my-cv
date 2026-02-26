@@ -3,7 +3,7 @@ SENIOR DEVOPS ENGINEER
 
 SUMMARY
 Senior DevOps / Platform Engineer focused on building internal CI/CD platforms and tooling for development teams.
-Experienced in designing and operating delivery pipelines using open-source stacks (Jenkins, Git, SonarQube, Nexus, Kubernetes) as well as enterprise platforms such as GitHub.
+Experienced in designing and operating delivery pipelines using open-source stacks (Jenkins, SonarQube, Nexus, Kubernetes) as well as enterprise platforms such as GitHub.
 Worked with a wide range of technologies, from legacy and constrained systems to modern platforms, integrating them into automated delivery processes and supporting them in production with 3rd-line support and on-call rotation.
 Interested in AI-driven workflows and new approaches to improving developer productivity.
 
