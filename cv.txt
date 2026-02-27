@@ -3,7 +3,7 @@ SENIOR DEVOPS ENGINEER
 
 SUMMARY
 Senior DevOps / Platform Engineer focused on building internal CI/CD platforms and tooling for development teams.
-Experienced in designing and operating delivery pipelines using open-source CI/CD stacks (Jenkins, Git-based workflows) as well as enterprise platforms such as GitHub.
+Experienced in designing and operating CI/CD pipelines using Jenkins Shared Libraries and the GitHub Actions ecosystem.
 Strong hands-on Kubernetes experience in production, working with Helm, Prometheus, Grafana, OpenTelemetry, and OpenShift.
 Integrated a broad range of legacy and modern technologies into CI/CD pipelines.
 Operated and supported CI/CD platforms in production, including 3rd-line support and on-call rotation.
