@@ -6,7 +6,7 @@ Senior DevOps / Platform Engineer focused on building internal CI/CD platforms a
 Experienced in designing and operating CI/CD pipelines using Jenkins Shared Libraries and the GitHub Actions ecosystem.
 Strong hands-on Kubernetes experience in production, working with Helm, Prometheus, Grafana, OpenTelemetry, and OpenShift.
 Integrated a broad range of legacy and modern technologies into CI/CD pipelines.
-Operated and supported CI/CD platforms in production, including 3rd-line support and on-call rotation.
+Operated and supported delivery platforms in production, including 3rd-line support and on-call rotation.
 Interested in AI-driven workflows and new approaches to improving developer productivity.
 
 SKILLS
