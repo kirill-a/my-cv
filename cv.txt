@@ -28,7 +28,7 @@ EPAM Systems (13 years 6 months)
 
 Apr 2022 – Nov 2025 (3 years 8 months), Singapore
 Role: Senior DevOps Engineer
-Client: a US-based top-5 pharmaceutical company.
+Client: a US-based pharmaceutical company.
 Project: Providing a CI/CD platform for internal developer teams.
 Responsibilities:
 - Development of CI/CD pipelines in Jenkins Shared Libraries and GitHub Actions (Custom Actions and Reusable Workflows)
@@ -65,7 +65,7 @@ Responsibilities:
 
 Jun 2012 – Jun 2014 (2 years 1 month), Russia
 Role: QA Engineer, Application Support
-Client: Russian subsidiary of the American banking corporation (top 5).
+Client: Russian subsidiary of the American banking corporation.
 Project: Support of the bank's legacy back-office systems.
 Responsibilities:
 - Functional and integration testing of backend systems (SVN, MS SQL Server, .NET)
