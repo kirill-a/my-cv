@@ -65,7 +65,7 @@ Responsibilities:
 
 Jun 2012 – Jun 2014 (2 years 1 month), Russia
 Role: QA Engineer, Application Support
-Client: Russian subsidiary of the American banking corporation.
+Client: Russian subsidiary of the US banking corporation.
 Project: Support of the bank's legacy back-office systems.
 Responsibilities:
 - Functional and integration testing of backend systems (SVN, MS SQL Server, .NET)
