@@ -73,7 +73,7 @@ Responsibilities:
 
 EDUCATION
 Ryazan State Radio Engineering University
-Bachelor's (Honours) degree (UK Equivalent), Information Technology (2007–2012)
+Bachelor's (Honours) degree (UK Equivalent), Information Systems and Technologies (2007–2012)
 
 CERTIFICATIONS
 AWS Certified Solutions Architect – Associate (Jun 2019, expired)
