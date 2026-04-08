@@ -76,5 +76,6 @@ Ryazan State Radio Engineering University
 Bachelor's (Honours) degree (UK Equivalent), Information Systems and Technologies (2007–2012)
 
 CERTIFICATIONS
+Certified Kubernetes Administrator (Apr 2026 - Apr 2028)
 AWS Certified Solutions Architect – Associate (Jun 2019, expired)
 Apigee Certified Professional API Engineer (Jan 2018, expired)
